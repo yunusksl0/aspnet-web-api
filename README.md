@@ -7,6 +7,6 @@ APIs are essential tools in modern software development. They define the methods
 
 API is important for multi-platform developers. Platforms such as mobile, web, windows application send requests to the web server and in return receive data in json format and these data can be used everywhere in the project.
 
-"www.example.com/api/User/Get"
+"http://localhost:your-port/api/User/Get"
 
 this example sends a Get request to the api
